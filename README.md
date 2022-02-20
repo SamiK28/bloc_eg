@@ -1,6 +1,6 @@
 # bloc_eg
 
-A new Flutter project.
+Bloc Tutorial
 
 ## Getting Started
 
